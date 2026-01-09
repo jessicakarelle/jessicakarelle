@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CafeManagementSystem": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
