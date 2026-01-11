@@ -1,7 +1,13 @@
-Jessica Karelle
+## Jessica Karelle
 
-Étudiante en Techniques de l'informatique au Cégep de Saint-Jean-sur-Richelieu.<br>
-Stack: C#, .NET, HTML/CSS, JavaScript
-<br>Disponible pour stage ATE dès le 25 mai 2026.
+Étudiante en Techniques de l'informatique au Cégep de Saint-Jean-sur-Richelieu.
 
+**Stack:** C# • .NET • HTML/CSS • JavaScript • Bootstrap
 
+En apprentissage de la POO et du développement web.
+
+**Disponible pour stage ATE dès le 25 mai 2026.**
+
+---
+
+[jessicatchikapa@gmail.com](mailto:jessicatchikapa@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jessicakarelle/) • [Portfolio](https://jessicakarelle.com)
