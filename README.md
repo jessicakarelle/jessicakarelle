@@ -8,6 +8,4 @@ En apprentissage de la POO et du développement web.
 
 **Disponible pour stage ATE dès le 25 mai 2026.**
 
----
-
 [jessicatchikapa@gmail.com](mailto:jessicatchikapa@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jessicakarelle/) • [Portfolio](https://jessicakarelle.com)
