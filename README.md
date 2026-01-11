@@ -5,6 +5,6 @@ Stack: C#, .NET, HTML/CSS, JavaScript
 
 En apprentissage de la POO et du développement web.
 
-Disponible pour stage ATE.
+Disponible pour stage ATE dès le 25 mai 2026.
 
 
