@@ -10,3 +10,4 @@ En apprentissage de la POO et du développement web.
 
 [jessica@jessicakarelle.com](mailto:jessica@jessicakarelle.com) • [LinkedIn](https://www.linkedin.com/in/jessicakarelle/) • [Portfolio](https://portfolio.jessicakarelle.com)• [Blog personnelle](https://blog.jessicakarelle.com)
 
+
