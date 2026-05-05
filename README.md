@@ -1,26 +1,25 @@
-# Hello, I'm Jessica Karelle 👋
+# Jessica Karelle
 
-**Founder of Lethavia Technologies | Software Engineering Intern**
+**Fondatrice de Lethavia Technologies**  
+Étudiante en Techniques de l'informatique — Cégep Saint-Jean-sur-Richelieu
 
-I bridge the gap between academic rigor and real-world innovation. Currently focused on architecting intelligent solutions at Lethavia while contributing to professional software projects.
+Développeuse spécialisée dans l'écosystème .NET et les technologies Web. J'assure la direction de **Lethavia Technologies**, où je travaille actuellement sur le développement de solutions basées sur l'intelligence artificielle pour résoudre des problématiques concrètes.
 
 ---
 
-### 🛠 Tech Stack
-*   **Core:** C# • .NET • JavaScript • SQL
-*   **Web:** Next.js • Tailwind CSS • HTML5/CSS3
-*   **Philosophy:** Clean Code, OOP, and AI-driven efficiency.
+### 🛠️ Compétences Techniques
+
+*   **Développement Backend :** C#, .NET, Programmation Orientée Objet (POO)
+*   **Développement Frontend :** JavaScript, HTML5, CSS3 (Tailwind, Bootstrap)
+*   **Outils & Méthodes :** Git, Architecture MVC, SQL
 
 ---
 
 ### 🚀 Lethavia Technologies
-As the founder, I lead the vision of **Lethavia**, designing intelligent systems to build the future. 
-*Current focus: Scalable web architectures and internationalization (i18n).*
+Lethavia Technologies est une initiative dédiée à la conception de solutions intelligentes pour bâtir l'avenir. 
+*Note : Plusieurs projets liés à l'IA sont actuellement en phase de développement confidentielle.*
 
 ---
 
-### 📫 Connect with me
-[LinkedIn](https://linkedin.com) • [Lethavia Technologies](https://lethavia.com) • [Email](mailto:jessica.admin@lethavia.com)
-
----
-*"Designing intelligent solutions to build the future."*
+### ✉️ Contact
+[LinkedIn](https://linkedin.com) • [jessica.admin@lethavia.com](mailto:jessica.admin@lethavia.com) • [Lethavia.com](https://lethavia.com)
