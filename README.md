@@ -1,25 +1,16 @@
 # Jessica Karelle
 
-**Fondatrice de Lethavia Technologies**  
-Étudiante en Techniques de l'informatique — Cégep Saint-Jean-sur-Richelieu
+**Étudiante en Techniques de l'informatique — Cégep Saint-Jean-sur-Richelieu**
+Développeuse passionnée par le développement Web, .NET et la création numérique.
 
-Développeuse spécialisée dans l'écosystème .NET et les technologies Web. J'assure la direction de **Lethavia Technologies**, où je travaille actuellement sur le développement de solutions basées sur l'intelligence artificielle pour résoudre des problématiques concrètes.
+### 🛠️ Tech Stack
 
----
+**C# • .NET • ASP.NET Core • SQL • POO • Unity 2D • JavaScript • HTML • CSS • Tailwind • Bootstrap • Git • MVC**
 
-### 🛠️ Compétences Techniques
+### 🔗 Liens
 
-*   **Développement Backend :** C#, .NET, Programmation Orientée Objet (POO)
-*   **Développement Frontend :** JavaScript, HTML5, CSS3 (Tailwind, Bootstrap)
-*   **Outils & Méthodes :** Git, Architecture MVC, SQL
-
----
-
-### 🚀 Lethavia Technologies
-Lethavia Technologies est une initiative dédiée à la conception de solutions intelligentes pour bâtir l'avenir. 
-*Note : Plusieurs projets liés à l'IA sont actuellement en phase de développement confidentielle.*
-
----
-
-### ✉️ Contact
-[LinkedIn](https://linkedin.com) • [jessica.admin@lethavia.com](mailto:jessica.admin@lethavia.com) • [Lethavia.com](https://lethavia.com)
+🌐 Site — https://jessicakarelle.com
+💼 Portfolio — https://portfolio.jessicakarelle.com
+💻 GitHub — https://github.com/jessicakarelle
+🔗 LinkedIn — https://linkedin.com/in/jessicakarelle
+📧 Email — [jessica@jessicakarelle.com](mailto:jessica@jessicakarelle.com)
